@@ -1,51 +1,41 @@
 # ToDo App
 
-A real-time To-Do list application built with **Node.js**, **Express.js**, and **Socket.IO**. This app includes 
-advanced features for task management and real-time updates, designed with scalability and user experience in 
-mind.
+A simple, user-friendly ToDo app that helps you manage your tasks efficiently. Includes features like categories, dark mode, and task deletion.
 
 ## Features
-- Create, update, delete, and mark tasks as completed.
-- Real-time updates using **Socket.IO**.
-- Interactive map-based task visualization using **Leaflet**.
-- Persistent task storage with **MongoDB** (if implemented).
-- Responsive design for mobile and desktop devices.
+- Add tasks with categories (Work, Personal, Shopping).
+- Toggle between light and dark mode for better user experience.
+- Delete tasks once completed.
+- User-friendly interface designed for simplicity.
 
 ## Technologies Used
-- **Node.js**: Backend runtime.
-- **Express.js**: Web framework.
-- **Socket.IO**: Real-time communication.
-- **Leaflet.js**: For map-based features (if added).
-- **HTML/CSS/JavaScript**: Frontend.
-- **MongoDB**: Database (if added).
+- HTML
+- CSS
+- JavaScript
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/chennoju18/ToDo-App.git
-   ```
+## How to Use
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/chennoju18/ToDo-App.git
 2. Navigate to the project folder:
-   ```bash
-   cd ToDo-App
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the application:
-   ```bash
-   npm start
-   ```
+   cd ToDo-App
+3. Open the index.html file in your browser to use the app.
 
-## Usage
-1. Open your browser and navigate to `http://localhost:3000` to use the app.
-2. Add, delete, and manage tasks.
-3. If map features are added, interact with tasks visually on the map.
+## Screenshots
 
-## Future Enhancements
-- User authentication for personalized task management.
-- Integration with cloud databases for scalability.
-- Enhanced UI/UX design with animations.
+### Homepage
+![Homepage](screenshots/Homepage.png)
 
-## License
-This project is licensed under the MIT License.
+### Adding a Task
+![Add Task](screenshots/Adding-a-task.png)
+
+### Dark Mode
+![Dark Mode](screenshots/dark-mode.png)
+
+## Live Demo
+
+Check out the live version of this app here:  
+[Live Demo](https://chennoju18.github.io/ToDo-App/)
+
+## Conclusion
+This app was built to demonstrate JavaScript, CSS, and HTML integration for a functional ToDo App.
