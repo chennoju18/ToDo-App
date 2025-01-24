@@ -24,10 +24,10 @@ A simple, user-friendly ToDo app that helps you manage your tasks efficiently. I
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshots/Homepage.png)
+![Homepage](screenshots/homepage.png)
 
 ### Adding a Task
-![Add Task](screenshots/Adding-a-task.png)
+![Add Task](screenshots/add-task.png)
 
 ### Dark Mode
 ![Dark Mode](screenshots/dark-mode.png)
